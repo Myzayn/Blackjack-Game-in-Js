@@ -1,0 +1,32 @@
+
+body{
+    background-image: url(card.jpg) ;
+    background-size: cover;
+    text-align: center;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: larger;
+    
+}
+#message-el{
+    font-style: italic;
+}
+
+.head {
+        color: goldenrod;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     }
+#red {
+    color: goldenrod;
+}
+button {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px white;
+}
